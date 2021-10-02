@@ -1,0 +1,48 @@
+html {
+    margin: 15px;
+    background-color: ivory;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .boxing {
+    border-radius: 15px;
+    background-color: rgb(236, 236, 190);
+    padding: 20px;
+    margin: 2px;
+    width: 250px;
+    
+  }
+  
+  #star {
+    font-size: 10px; 
+  }
+  
+  .images {
+    height: 200px;
+    margin: 10px;
+    border: 2px solid;
+    border-radius: 5px;
+  }
+  
+  
+  .button {
+    background-color: orange;
+    color: black;
+    border: 2px solid;
+    padding: 10px;
+    margin: 20px;
+    width: 200px;
+    border-radius: 15px;
+    text-align: center;
+    
+  }
+
+  .greyb {
+      background-color: rgba(128, 128, 128, 0.459);
+      align-content: center;
+      margin: 10px;
+  }
+  
